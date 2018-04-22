@@ -21,7 +21,7 @@ args = vars(ap.parse_args())
 # maximum number of results for a given search and (2) the group size
 # for results (maximum of 50 per request)
 # TODO remove API key
-API_KEY = "fdafc9435dfc4e3f9cf4d943e1c7a543"
+API_KEY = ""
 
 # TODO needs to be at least 1000
 MAX_RESULTS = 1000
