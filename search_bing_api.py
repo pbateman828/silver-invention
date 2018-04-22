@@ -21,10 +21,10 @@ args = vars(ap.parse_args())
 # maximum number of results for a given search and (2) the group size
 # for results (maximum of 50 per request)
 # TODO remove API key
-API_KEY = "YOUR API KEY"
+API_KEY = "fdafc9435dfc4e3f9cf4d943e1c7a543"
 
 # TODO needs to be at least 1000
-MAX_RESULTS = 250
+MAX_RESULTS = 1000
 
 # number of images per request
 # Don't increase this. Don't want to start paying for API.
