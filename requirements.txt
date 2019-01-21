@@ -13,7 +13,7 @@ numpy==1.14.2
 opencv-python==3.4.0.12
 pkg-resources==0.0.0
 protobuf==3.5.2.post1
-PyYAML==3.12
+PyYAML>=4.2b1
 requests==2.18.4
 scipy==1.0.1
 six==1.11.0
